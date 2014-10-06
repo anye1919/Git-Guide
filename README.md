@@ -10,7 +10,7 @@ a repository for learning git
 
     win7系统：http://msysgit.github.io/
 
-    具体各系统安装命令 [猛击这里](http://git-scm.com/book/en/Getting-Started-Installing-Git) 
+    具体各系统安装命令参照这里：http://git-scm.com/book/en/Getting-Started-Installing-Git
 
 ###2、git命令
 
@@ -51,9 +51,11 @@ a repository for learning git
 
    > 现在，你的改动已经提交到了 HEAD，但是还没到你的远端仓库。
 
-    添加远程仓库：git remote add origin https://github.com/anye1919/test.git #注意url格式，anye1919是你注册时的昵称，test是你刚才建立的版本仓库
+    添加远程仓库：git remote add origin https://github.com/anye1919/test.git 
+    #注意url格式，anye1919是你注册时的昵称，test是你刚才建立的版本仓库
 
-    执行如下命令以将这些改动提交到远端仓库：git push origin master #可以把 master 换成你想要推送的任何分支
+    执行如下命令以将这些改动提交到远端仓库：git push origin master 
+    #可以把 master 换成你想要推送的任何分支
 
   
 
