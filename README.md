@@ -21,7 +21,11 @@ a repository for learning git
 
   git config --global user.email "1066242324@qq.com" #设置邮箱
 
-###3、假设把代码仓库(repository)都放在文件夹 D:\github\ 下
+###3、git初步操作
+
+   先在github上建立一个叫test的仓库：点击右上角你名字旁边的New repository，Repository name 输入 test，点击Create repository，这样就创建了一个代码仓库
+
+   假设你本地把代码仓库(repository)都放在文件夹 D:\github\ 下
 
    打开cmd命令窗口，切换到该目录下：d: -> cd github (箭头->代表操作步骤)
 
