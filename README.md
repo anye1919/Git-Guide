@@ -23,7 +23,8 @@ a repository for learning git
 
 ###3、git初步操作
 
-    先在github上建立一个叫test的仓库：点击右上角你名字旁边的New repository，Repository name 输入 test，点击Create repository，这样就创建了一个代码仓库
+    先在github上建立一个叫test的仓库：点击右上角你名字旁边的New repository
+    然后在Repository name 输入 test，点击Create repository，这样就创建了一个代码仓库
 
     假设你本地把代码仓库(repository)都放在文件夹 D:\github\ 下
 
