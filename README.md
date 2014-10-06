@@ -52,6 +52,8 @@ a repository for learning git
 
    执行如下命令以将这些改动提交到远端仓库：git push origin master #可以把 master 换成你想要推送的任何分支
 
+   test
+
    
 
    
