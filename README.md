@@ -59,7 +59,7 @@ a repository for learning git
 
 ###4、深入git
 
-clone github 上的仓库到本地：`git clone https://github.com/anye1919/Spoon-Knife.git`
+    clone github 上的仓库到本地：`git clone https://github.com/anye1919/Spoon-Knife.git`
 
 
 
