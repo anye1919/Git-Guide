@@ -14,15 +14,15 @@ a repository for learning git
 
 ###2、git命令
 
-    git --version #查看git版本
+    查看git版本：git --version 
   
-    git --help    #查看git命令帮助
+    查看git命令帮助：git --help    
   
-    git config -l #列出git全部配置
+    列出git全部配置：git config -l 
   
-    git config --global user.name "anye1919"           #设置用户名
+    设置用户名：git config --global user.name "anye1919"           
 
-    git config --global user.email "1066242324@qq.com" #设置邮箱
+    设置邮箱：git config --global user.email "1066242324@qq.com" 
 
 ###3、git初步操作
 
