@@ -1,21 +1,20 @@
-test
-====
+#test
 
 a repository for learning git
 
 
-一、初识git
------------
+##一、初识git
+
 
 ###1、安装git
 
     win7系统：http://msysgit.github.io/
 
-    具体各系统安装命令 [猛击这里](http://git-scm.com/book/en/Getting-Started-Installing-Git)
+    具体各系统安装命令 [猛击这里](http://git-scm.com/book/en/Getting-Started-Installing-Git) 
 
 ###2、git命令
 
-    `git --version` #查看git版本（#代表注释）
+     `git --version` #查看git版本（#代表注释）
   
     git --help    #查看git命令帮助
   
