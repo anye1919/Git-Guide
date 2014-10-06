@@ -5,6 +5,7 @@ a repository for learning git
 
 
 一、初识git
+------------------------------------------------------
 
 1、安装git
 
@@ -17,7 +18,7 @@ a repository for learning git
   git config -l #列出git全部配置
   
   git config --global user.name "anye1919"           #设置用户名
-  
+
   git config --global user.email "1066242324@qq.com" #设置邮箱
 
 3、假设把代码仓库(repository)都放在文件夹 D:\github\ 下
