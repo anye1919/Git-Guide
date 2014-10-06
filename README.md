@@ -5,11 +5,11 @@ a repository for learning git
 
 
 一、初识git
-------------------------------------------------------
+-----------
 
-1、安装git
+###1、安装git
 
-2、git命令
+###2、git命令
 
   git --version #查看git版本（#代表注释）
   
@@ -21,7 +21,7 @@ a repository for learning git
 
   git config --global user.email "1066242324@qq.com" #设置邮箱
 
-3、假设把代码仓库(repository)都放在文件夹 D:\github\ 下
+###3、假设把代码仓库(repository)都放在文件夹 D:\github\ 下
 
    打开cmd命令窗口，切换到该目录下：d: -> cd github (箭头->代表操作步骤)
 
