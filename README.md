@@ -11,25 +11,25 @@ a repository for learning git
 
 ###2、git命令
 
-  git --version #查看git版本（#代表注释）
+  *git --version #查看git版本（#代表注释）
   
-  git --help    #查看git命令帮助
+  *git --help    #查看git命令帮助
   
-  git config -l #列出git全部配置
+  *git config -l #列出git全部配置
   
-  git config --global user.name "anye1919"           #设置用户名
+  *git config --global user.name "anye1919"           #设置用户名
 
-  git config --global user.email "1066242324@qq.com" #设置邮箱
+  *git config --global user.email "1066242324@qq.com" #设置邮箱
 
 ###3、git初步操作
 
-   先在github上建立一个叫test的仓库：点击右上角你名字旁边的New repository，Repository name 输入 test，点击Create repository，这样就创建了一个代码仓库
+    先在github上建立一个叫test的仓库：点击右上角你名字旁边的New repository，Repository name 输入 test，点击Create repository，这样就创建了一个代码仓库
 
-   假设你本地把代码仓库(repository)都放在文件夹 D:\github\ 下
+    假设你本地把代码仓库(repository)都放在文件夹 D:\github\ 下
 
-   打开cmd命令窗口，切换到该目录下：d: -> cd github (箭头->代表操作步骤)
+    打开cmd命令窗口，切换到该目录下：d: -> cd github (箭头->代表操作步骤)
 
-   建立一个 test 文件夹：mkdir test  #test文件夹就是存放代码的仓库
+    建立一个 test 文件夹：mkdir test  #test文件夹就是存放代码的仓库
 
    列出github文件夹下所有的仓库：dir
 
@@ -39,7 +39,7 @@ a repository for learning git
 
    建立一个空文件：type nul>README.md 
 
-   #你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 工作目录，它持有实际文件；第二个是 缓存区（Index），它像个缓存区域，临时保存你的改动；最后是 HEAD，指向你最近一次提交后的结果。
+   > 你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 工作目录，它持有实际文件；第二个是 缓存区（Index），它像个缓存区域，临时保存你的改动；最后是 HEAD，指向你最近一次提交后的结果。
 
    将文件添加到缓存区：git add README.md
 
