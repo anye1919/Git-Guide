@@ -1,4 +1,4 @@
-#test
+#Git Guide
 
 a repository for learning git
 
@@ -14,7 +14,7 @@ a repository for learning git
 
 ###2、git命令
 
-     `git --version` #查看git版本（#代表注释）
+    git --version #查看git版本（#代表注释）
   
     git --help    #查看git命令帮助
   
