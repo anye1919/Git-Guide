@@ -20,9 +20,9 @@ a repository for learning git
   
     列出git全部配置：git config -l 
   
-    设置用户名：git config --global user.name "anye1919"           
+    设置用户名：git config --global user.name "你的用户名"           
 
-    设置邮箱：git config --global user.email "1066242324@qq.com" 
+    设置邮箱：git config --global user.email "你的邮箱" 
 
 ###3、git初步操作
 
@@ -59,7 +59,7 @@ a repository for learning git
 
 ###4、深入git
 
-    clone github 上的仓库到本地：*git clone https://github.com/anye1919/Spoon-Knife.git*
+    clone github 上的仓库到本地：git clone https://github.com/anye1919/Spoon-Knife.git
 
 
 
